@@ -1,14 +1,15 @@
-🔍 Project Overview:
+# Manufacturing_Analytics
+## 🔍 Project Overview:
 Transformed raw data from Adventure Works database into insightful visualizations, uncovering valuable business insights. 
 Leveraged the robust capabilities of Microsoft Excel for data extraction, transformation, and loading (ETL) processes.
 
-🛠️ Technologies Used:
+## 🛠️ Technologies Used:
 💡 Microsoft Excel
 💡 Power BI
 💡 MY SQL
 💡 Tableau
 
-Findings🧐
+## Findings🧐
 - The 🚲 Bike product category ruled the revenue charts, but most orders came from Accessories.
 - Mountain, road, and touring bikes were the most lucrative product sub-categories.
 - The United States raked in over $9.39 million, while Canada lagged behind at $1.97 million.
@@ -16,7 +17,7 @@ Findings🧐
 - Customers with 🎓 Bachelors' degrees, in 📊 Professional positions, earning $60K, and owning a 🏡 house were our revenue drivers.
 - Those with only a Partial High school degree, in Management positions, earning $160K, and house owners didn't pull their weight.
 
-Recommendations💡
+## Recommendations💡
 1. 🚀 Boost production and marketing of the top revenue-generating product categories (🚴 Bikes, especially mountain, road & touring) and bundle them with accessories for maximum sales & profit.
 2. Focus on replicating the profitable US & Australian marketing strategies in the least revenue-generating countries (Canada, France, Germany & the United Kingdom).
 3.Incentives and rewards should be given to top-performing customers to encourage more sales. They can also conduct capacity-building sessions to mentor low-performing customers 
